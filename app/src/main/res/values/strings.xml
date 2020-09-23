@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="text_label_1">Profile</string>
+    <string name="text_label_2">Upload</string>
+</resources>
